@@ -1,0 +1,7 @@
+Location,ARRDD,ARRMM,ARRYYYY,ArrivalDate,DepartureDate,Nights,Adults,Rooms,emailID
+Manchester,15,8,2022,2022-08-15,2022-08-16,1,2,1,abc@gmail.com
+London,15,8,2022,2022-08-15,2022-08-16,1,2,1,abc@gmail.com
+Newcastle,15,8,2022,2022-08-15,2022-08-16,1,2,1,abc@gmail.com
+Bradford,15,8,2022,2022-08-15,2022-08-16,1,2,1,abc@gmail.com
+Liverpool,15,8,2022,2022-08-15,2022-08-16,1,2,1,abc@gmail.com
+Birmingham,15,8,2022,2022-08-15,2022-08-16,1,2,1,abc@gmail.com
